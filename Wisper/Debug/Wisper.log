@@ -1,0 +1,13 @@
+﻿  Core.cpp
+C:\Users\Lorem Ipsum\source\repos\Wisper\Wisper\Core.cpp(42,6): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\Lorem Ipsum\source\repos\Wisper\Wisper\Core.cpp(45,6): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\Lorem Ipsum\source\repos\Wisper\Wisper\Core.cpp(46,6): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\Lorem Ipsum\source\repos\Wisper\Wisper\Core.cpp(48,6): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\Lorem Ipsum\source\repos\Wisper\Wisper\Core.cpp(49,6): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\Lorem Ipsum\source\repos\Wisper\Wisper\Core.cpp(50,6): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\Lorem Ipsum\source\repos\Wisper\Wisper\Core.cpp(51,6): warning C4551: в вызове функции отсутствует список аргументов
+  main.cpp
+  Создание кода...
+C:\Users\Lorem Ipsum\source\repos\Wisper\Wisper\Core.cpp(85): warning C4715: diskGet: значение возвращается не при всех путях выполнения
+C:\Users\Lorem Ipsum\source\repos\Wisper\Wisper\Core.cpp(62): warning C4172: возвращение адреса локальной или временной переменной : username
+  Wisper.vcxproj -> C:\Users\Lorem Ipsum\source\repos\Wisper\Debug\Wisper.exe
